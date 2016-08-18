@@ -1,6 +1,6 @@
 {
   "name": "ecdownload",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An easy way to download file with javascript",
   "main": "ecDownload.js",
   "scripts": {
